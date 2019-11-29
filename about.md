@@ -18,3 +18,6 @@ my favorite animal is the [dog](https://en.wikipedia.org/wiki/Dog)
 
 ![Picture of dogs](dogs.jpg)
 
+
+<img src="dogs.jpg" />
+
