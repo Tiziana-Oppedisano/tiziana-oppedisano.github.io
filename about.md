@@ -21,3 +21,4 @@ my favorite animal is the [dog](https://en.wikipedia.org/wiki/Dog)
 
 <img src="dogs.jpg" />
 
+[back to home](index.html)
